@@ -1,0 +1,11 @@
+# AiOptics Mirror host — open to AI assistants and search, Google excluded
+
+# Google stays out: doesn't feed AI search, avoids duplicate content
+User-agent: Googlebot
+Disallow: /
+
+# Everyone else (all AI assistants, Bing, and other agents) is welcome
+User-agent: *
+Allow: /
+
+Sitemap: https://willyml1979-dotcom.github.io/zender-ford-mirror/sitemap.xml
