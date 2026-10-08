@@ -1,6 +1,6 @@
 {
   "dealership": "Zender Ford",
-  "generated_at": "2026-10-07T14:38:46",
+  "generated_at": "2026-10-07T20:16:46",
   "vehicle_count": 197,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,8 @@
       "year": 2012,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2012 RAM 1500 ",
@@ -35,7 +36,8 @@
       "year": 2012,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2013 Ford Edge ",
@@ -51,7 +53,8 @@
       "year": 2013,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2014 Ford F-150 ",
@@ -67,7 +70,8 @@
       "year": 2014,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2015 GMC Sierra 1500 ",
@@ -82,7 +86,8 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2017 Audi Q5 ",
@@ -97,7 +102,8 @@
       "year": 2017,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2017 Chrysler Pacifica ",
@@ -112,7 +118,8 @@
       "year": 2017,
       "make": "Chrysler",
       "model": "Pacifica",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2017 Ford F-150 4WD SuperCrew Styleside 5-1/2 Ft Box Platinumin Spruce Grove",
@@ -129,7 +136,8 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2017 Ford F-150 ",
@@ -144,7 +152,8 @@
       "year": 2017,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Super Duty F-350 DRW ",
@@ -160,7 +169,8 @@
       "year": 2018,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2018 Ford Super Duty F-350 SRW ",
@@ -176,7 +186,8 @@
       "year": 2018,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -191,7 +202,8 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2019 Jeep Cherokee ",
@@ -206,7 +218,8 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2019 Lincoln Nautilus ",
@@ -222,7 +235,8 @@
       "year": 2019,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2020 BMW X7 Sports Activity Vehiclein Spruce Grove",
@@ -239,7 +253,8 @@
       "year": 2020,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2020 BMW X7 ",
@@ -254,7 +269,8 @@
       "year": 2020,
       "make": "BMW",
       "model": "X7",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2020 RAM 1500 Classic ",
@@ -269,7 +285,8 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Chevrolet Silverado 1500 ",
@@ -284,7 +301,8 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Silverado 1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Ford Escape ",
@@ -300,7 +318,8 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Ford F-150 ",
@@ -316,7 +335,8 @@
       "year": 2021,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Grand Cherokee Limited X 4x4in Spruce Grove",
@@ -333,7 +353,8 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -348,7 +369,8 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Wrangler 4xe Unlimited High Altitude 4x4in Spruce Grove",
@@ -364,7 +386,8 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler 4xe Unlimited High Altitude 4x4in Spruce Grove",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2021 Jeep Wrangler 4xe ",
@@ -380,7 +403,8 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Chevrolet Tahoe 4WD 4dr Commercialin Spruce Grove",
@@ -398,7 +422,8 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Chevrolet Tahoe ",
@@ -414,7 +439,8 @@
       "year": 2022,
       "make": "Chevrolet",
       "model": "Tahoe",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Dodge Challenger Scat Pack 392 RWDin Spruce Grove",
@@ -431,7 +457,8 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Dodge Challenger ",
@@ -446,7 +473,8 @@
       "year": 2022,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Ford Escape ",
@@ -461,7 +489,8 @@
       "year": 2022,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -477,7 +506,8 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Hyundai Santa Cruz ",
@@ -493,7 +523,8 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Santa Cruz",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Jeep Grand Cherokee Summit Reserve 4x4in Spruce Grove",
@@ -510,7 +541,8 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Jeep Grand Cherokee ",
@@ -525,7 +557,8 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Kia Sportage ",
@@ -540,7 +573,8 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Lincoln Aviator Reserve AWDin Spruce Grove",
@@ -557,7 +591,8 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Lincoln Aviator ",
@@ -572,7 +607,8 @@
       "year": 2022,
       "make": "Lincoln",
       "model": "Aviator",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 Nissan Pathfinder ",
@@ -587,7 +623,8 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 RAM 1500 Laramie 4x4 Crew Cab 6'4\" Boxin Spruce Grove",
@@ -605,7 +642,8 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -621,7 +659,8 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2022 RAM 1500 Classic ",
@@ -636,7 +675,8 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -651,7 +691,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Expedition Limited Max 4x4in Spruce Grove",
@@ -669,7 +710,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Expedition ",
@@ -685,7 +727,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Explorer ",
@@ -701,7 +744,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 LARIAT 4WD SuperCrew 5.5' Boxin Spruce Grove",
@@ -719,7 +763,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 Tremor 4WD SuperCrew 5.5' Boxin Spruce Grove",
@@ -736,7 +781,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -752,7 +798,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Maverick XLT Advanced AWD SuperCrewin Spruce Grove",
@@ -769,7 +816,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Maverick ",
@@ -784,7 +832,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford Mustang Mach-E ",
@@ -800,7 +849,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -816,7 +866,8 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Sportage X-Line Limited AWD w/Black Interiorin Spruce Grove",
@@ -833,7 +884,8 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -848,7 +900,8 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -863,7 +916,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -878,7 +932,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Edge SE AWDin Spruce Grove",
@@ -895,7 +950,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Edge ",
@@ -910,7 +966,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape Active AWDin Spruce Grove",
@@ -928,7 +985,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape ",
@@ -944,7 +1002,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Expedition King Ranch 4x4in Spruce Grove",
@@ -961,7 +1020,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Expedition ",
@@ -976,7 +1036,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F-150 XLT 4WD SuperCrew 5.5' Boxin Spruce Grove",
@@ -994,7 +1055,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1010,7 +1072,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Mustang EcoBoost Convertiblein Spruce Grove",
@@ -1027,7 +1090,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Mustang ",
@@ -1042,7 +1106,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1057,7 +1122,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -1072,7 +1138,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Edge ",
@@ -1087,7 +1154,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Escape ",
@@ -1103,7 +1171,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Expedition ",
@@ -1118,7 +1187,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -1134,7 +1204,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Ford Mustang ",
@@ -1149,7 +1220,8 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Yukon 4WD 4dr Denali Ultimatein Spruce Grove",
@@ -1166,7 +1238,8 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Yukon ",
@@ -1181,7 +1254,8 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 GMC Yukon ",
@@ -1196,7 +1270,8 @@
       "year": 2024,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Tucson Preferred AWDin Spruce Grove",
@@ -1214,7 +1289,8 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Tucson ",
@@ -1230,7 +1306,8 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Hyundai Tucson ",
@@ -1246,7 +1323,8 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Compass Altitude 4x4in Spruce Grove",
@@ -1263,7 +1341,8 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Jeep Compass ",
@@ -1278,7 +1357,8 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue AWD SLin Spruce Grove",
@@ -1296,7 +1376,8 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1312,7 +1393,8 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -1328,7 +1410,8 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Chevrolet Silverado 3500HD ",
@@ -1344,7 +1427,8 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Silverado 3500HD",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan ",
@@ -1359,7 +1443,8 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Chrysler Grand Caravan ",
@@ -1374,7 +1459,8 @@
       "year": 2025,
       "make": "Chrysler",
       "model": "Grand Caravan",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1390,7 +1476,8 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1406,7 +1493,8 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport Outer Banks 4x4in Spruce Grove",
@@ -1423,7 +1511,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport Outer Banks 4x4in Spruce Grove",
@@ -1441,7 +1530,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport Outer Banks 4x4in Spruce Grove",
@@ -1458,7 +1548,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1474,7 +1565,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Escape ",
@@ -1490,7 +1582,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Explorer ",
@@ -1505,7 +1598,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Maverick ",
@@ -1520,7 +1614,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Ranger ",
@@ -1535,7 +1630,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Super Duty F-650 Basein Spruce Grove",
@@ -1552,7 +1648,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Bronco Sport ",
@@ -1568,7 +1665,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Escape Hybrid ",
@@ -1583,7 +1681,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Explorer ",
@@ -1598,7 +1697,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Maverick ",
@@ -1613,7 +1713,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Ford Ranger ",
@@ -1628,7 +1729,8 @@
       "year": 2025,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 ",
@@ -1644,7 +1746,8 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 GMC Sierra 1500 ",
@@ -1660,7 +1763,8 @@
       "year": 2025,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Honda CR-V LX AWDin Spruce Grove",
@@ -1678,7 +1782,8 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Honda CR-V ",
@@ -1694,7 +1799,8 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Honda CR-V ",
@@ -1710,7 +1816,8 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Kia Sportage EX Premium AWD w/Black Interiorin Spruce Grove",
@@ -1727,7 +1834,8 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -1742,7 +1850,8 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -1757,7 +1866,8 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Lincoln Nautilus Reserve AWDin Spruce Grove",
@@ -1775,7 +1885,8 @@
       "year": 2025,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Lincoln Nautilus ",
@@ -1791,7 +1902,8 @@
       "year": 2025,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Lincoln Nautilus ",
@@ -1807,7 +1919,8 @@
       "year": 2025,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -1822,7 +1935,8 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -1837,7 +1951,8 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1853,7 +1968,8 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1869,7 +1985,8 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox AWD LTin Spruce Grove",
@@ -1886,7 +2003,8 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox AWD LTin Spruce Grove",
@@ -1904,7 +2022,8 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox ",
@@ -1920,7 +2039,8 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Chevrolet Equinox ",
@@ -1936,7 +2056,8 @@
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -1952,7 +2073,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1967,7 +2089,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Escapein Spruce Grove",
@@ -1982,7 +2105,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Spruce Grove",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Escape Hybridin Spruce Grove",
@@ -1998,7 +2122,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Escape PHEVin Spruce Grove",
@@ -2014,7 +2139,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Expeditionin Spruce Grove",
@@ -2029,7 +2155,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Spruce Grove",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -2044,7 +2171,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -2060,7 +2188,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Lightningin Spruce Grove",
@@ -2076,7 +2205,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2091,7 +2221,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Maverick ",
@@ -2106,7 +2237,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Mustangin Spruce Grove",
@@ -2121,7 +2253,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Spruce Grove",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Spruce Grove",
@@ -2137,7 +2270,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -2152,7 +2286,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -2168,7 +2303,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-250 SRWin Spruce Grove",
@@ -2184,7 +2320,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-350 DRWin Spruce Grove",
@@ -2200,7 +2337,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW ",
@@ -2217,7 +2355,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-450 DRWin Spruce Grove",
@@ -2233,7 +2372,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Big Bend 4 Door 4x4in Spruce Grove",
@@ -2243,14 +2383,15 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/2ddada0af5b2.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13653623.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13653623.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:15",
+      "last_verified": "2026-10-07T15:44:47",
       "price": 66773.0,
       "price_currency": "CAD",
       "odometer_km": 1142,
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Badlandsin Spruce Grove",
@@ -2260,13 +2401,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/a655959e9ab9.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13785165.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13785165.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:26",
+      "last_verified": "2026-10-07T15:44:56",
       "price": 85972.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Outer Banksin Spruce Grove",
@@ -2276,13 +2418,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/6641a86a38ea.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13785195.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco-id13785195.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:35",
+      "last_verified": "2026-10-07T15:45:08",
       "price": 74598.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Spruce Grove",
@@ -2292,13 +2435,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/4d4ea3074c10.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13653692.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13653692.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:47",
+      "last_verified": "2026-10-07T15:45:18",
       "price": 52928.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Spruce Grove",
@@ -2308,13 +2452,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/cd001ea7b840.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13653767.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13653767.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:04:59",
+      "last_verified": "2026-10-07T15:45:27",
       "price": 55968.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Spruce Grove",
@@ -2324,13 +2469,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/e1bb71b59bef.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785115.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785115.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:05:10",
+      "last_verified": "2026-10-07T15:45:38",
       "price": 54832.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Spruce Grove",
@@ -2340,13 +2486,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/d933304634e4.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785183.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785183.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:05:22",
+      "last_verified": "2026-10-07T15:45:48",
       "price": 57177.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Spruce Grove",
@@ -2356,13 +2503,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/8a71b62129db.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785202.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785202.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:05:31",
+      "last_verified": "2026-10-07T15:45:57",
       "price": 60562.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Spruce Grove",
@@ -2372,13 +2520,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/b12b8bce83be.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785209.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785209.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:05:41",
+      "last_verified": "2026-10-07T15:46:08",
       "price": 53907.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Spruce Grove",
@@ -2388,13 +2537,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/fd42dc086383.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785220.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785220.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:05:52",
+      "last_verified": "2026-10-07T15:46:19",
       "price": 51128.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Spruce Grove",
@@ -2404,13 +2554,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/d0f63aaadf7c.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785259.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785259.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:06:02",
+      "last_verified": "2026-10-07T15:46:28",
       "price": 52673.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Bronco Sport Badlandsin Spruce Grove",
@@ -2420,13 +2571,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/cd0ccf32ff6d.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785274.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Bronco_Sport-id13785274.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:06:14",
+      "last_verified": "2026-10-07T15:46:39",
       "price": 55627.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Explorer Tremorin Spruce Grove",
@@ -2436,13 +2588,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/8ea14b6e83b9.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Explorer-id13653800.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Explorer-id13653800.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:06:23",
+      "last_verified": "2026-10-07T15:46:52",
       "price": 67368.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Explorer Tremorin Spruce Grove",
@@ -2452,13 +2605,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/4c8837fa933c.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-Explorer-id13785150.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-Explorer-id13785150.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:06:35",
+      "last_verified": "2026-10-07T15:47:04",
       "price": 67667.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2468,13 +2622,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/2e2ca7f51f6c.html",
       "source_url": "https://www.zenderford.com/new/inventory/2026-Ford-F_150-id13653639.html",
       "dealer_url": "https://www.zenderford.com/new/inventory/2026-Ford-F_150-id13653639.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:06:48",
+      "last_verified": "2026-10-07T15:47:14",
       "price": 80527.0,
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XL 4WD SuperCab 6.5' Boxin Spruce Grove",
@@ -2490,7 +2645,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Tremorin Spruce Grove",
@@ -2506,7 +2662,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Tremorin Spruce Grove",
@@ -2522,7 +2679,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Tremorin Spruce Grove",
@@ -2538,7 +2696,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2554,7 +2713,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2570,7 +2730,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Tremorin Spruce Grove",
@@ -2586,7 +2747,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2602,7 +2764,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Platinumin Spruce Grove",
@@ -2618,7 +2781,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Platinumin Spruce Grove",
@@ -2634,7 +2798,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2650,7 +2815,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Tremorin Spruce Grove",
@@ -2666,7 +2832,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 XLTin Spruce Grove",
@@ -2682,7 +2849,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford F-150 Hybrid XLTin Spruce Grove",
@@ -2698,7 +2866,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150 Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Maverick Tremorin Spruce Grove",
@@ -2714,7 +2883,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Maverick XLTin Spruce Grove",
@@ -2730,7 +2900,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Ranger Lariatin Spruce Grove",
@@ -2746,7 +2917,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW XLTin Spruce Grove",
@@ -2762,7 +2934,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW XLTin Spruce Grove",
@@ -2778,7 +2951,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Ford Super Duty F-350 SRW Lariatin Spruce Grove",
@@ -2794,7 +2968,8 @@
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain AWD Elevationin Spruce Grove",
@@ -2811,7 +2986,8 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -2826,7 +3002,8 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 GMC Terrain ",
@@ -2841,7 +3018,8 @@
       "year": 2026,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid Preferred-Trend FWDin Spruce Grove",
@@ -2858,7 +3036,8 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -2873,7 +3052,8 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Hyundai Sonata Hybrid ",
@@ -2888,7 +3068,8 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Sonata Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Compass North 4x4in Spruce Grove",
@@ -2905,7 +3086,8 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2920,7 +3102,8 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -2935,7 +3118,8 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2026 Toyota RAV4 LE AWDin Spruce Grove",
@@ -2952,7 +3136,8 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Toyota RAV4 ",
@@ -2968,7 +3153,8 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "province": "AB"
     },
     {
       "name": "2026 Toyota RAV4 ",
@@ -2984,7 +3170,8 @@
       "year": 2026,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Bronco Sport ",
@@ -2997,7 +3184,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Expedition ",
@@ -3010,7 +3198,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -3026,7 +3215,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford F-150 ",
@@ -3039,7 +3229,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Maverickin Spruce Grove",
@@ -3054,7 +3245,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverickin Spruce Grove",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Maverick ",
@@ -3067,7 +3259,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Super Duty F-250 SRWin Spruce Grove",
@@ -3083,7 +3276,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford F-350 ",
@@ -3099,7 +3293,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-350",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford F-350 ",
@@ -3115,7 +3310,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "F-350",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     },
     {
       "name": "2027 Ford Super Duty F-450 DRWin Spruce Grove",
@@ -3131,7 +3327,8 @@
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "province": "AB"
     }
   ]
 }
