@@ -3,7 +3,7 @@
 > Zender Ford is a Ford dealership in AB. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/zender-ford-mirror/used/): 197 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/zender-ford-mirror/used/): 196 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/zender-ford-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
