@@ -1,7 +1,7 @@
 {
   "dealership": "Zender Ford",
-  "generated_at": "2026-10-25T21:03:21",
-  "vehicle_count": 201,
+  "generated_at": "2026-10-26T05:57:49",
+  "vehicle_count": 200,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -804,7 +804,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 58488.0,
+      "price": 58248.0,
       "price_currency": "CAD"
     },
     {
@@ -980,7 +980,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "new",
-      "price": 48488.0,
+      "price": 47989.0,
       "price_currency": "CAD"
     },
     {
@@ -991,7 +991,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 31488.0,
+      "price": 30989.0,
       "price_currency": "CAD"
     },
     {
@@ -1002,7 +1002,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "new",
-      "price": 32777.0,
+      "price": 32488.0,
       "price_currency": "CAD"
     },
     {
@@ -1013,7 +1013,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "new",
-      "price": 28888.0,
+      "price": 28777.0,
       "price_currency": "CAD"
     },
     {
@@ -1024,7 +1024,7 @@
       "make": "Ford",
       "model": "Expedition",
       "condition": "new",
-      "price": 74777.0,
+      "price": 73998.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,7 +1035,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 51688.0,
+      "price": 51488.0,
       "price_currency": "CAD"
     },
     {
@@ -1046,7 +1046,7 @@
       "make": "Ford",
       "model": "Mustang",
       "condition": "new",
-      "price": 37777.0,
+      "price": 37488.0,
       "price_currency": "CAD"
     },
     {
@@ -1079,7 +1079,7 @@
       "make": "GMC",
       "model": "Yukon",
       "condition": "new",
-      "price": 87488.0,
+      "price": 87248.0,
       "price_currency": "CAD"
     },
     {
@@ -1112,7 +1112,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 31558.0,
+      "price": 31248.0,
       "price_currency": "CAD"
     },
     {
@@ -1244,7 +1244,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 49777.0,
+      "price": 49488.0,
       "price_currency": "CAD"
     },
     {
@@ -1464,7 +1464,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 36488.0,
+      "price": 36248.0,
       "price_currency": "CAD"
     },
     {
@@ -1486,7 +1486,7 @@
       "make": "Lincoln",
       "model": "Nautilus",
       "condition": "used",
-      "price": 60889.0,
+      "price": 60777.0,
       "price_currency": "CAD"
     },
     {
@@ -1508,7 +1508,7 @@
       "make": "Lincoln",
       "model": "Nautilus",
       "condition": "used",
-      "price": 60889.0,
+      "price": 60777.0,
       "price_currency": "CAD"
     },
     {
@@ -1585,7 +1585,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 37669.0,
+      "price": 36998.0,
       "price_currency": "CAD"
     },
     {
@@ -1596,7 +1596,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 36998.0,
+      "price": 36488.0,
       "price_currency": "CAD"
     },
     {
@@ -1607,7 +1607,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 37669.0,
+      "price": 36998.0,
       "price_currency": "CAD"
     },
     {
@@ -1821,17 +1821,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger Lariatin Spruce Grove",
-      "vin": "1FTER4KH7TLE32433",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/a06348b55fc5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 61917.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Super Duty F-350 SRW XLTin Spruce Grove",
       "vin": "1FT8W3BT3TEE89737",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/34c5004e13ad.html",
@@ -1861,7 +1850,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 37777.0,
+      "price": 37488.0,
       "price_currency": "CAD"
     },
     {
@@ -1872,7 +1861,7 @@
       "make": "GMC",
       "model": "Terrain",
       "condition": "used",
-      "price": 37777.0,
+      "price": 37488.0,
       "price_currency": "CAD"
     },
     {
@@ -1894,7 +1883,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "used",
-      "price": 32888.0,
+      "price": 31989.0,
       "price_currency": "CAD"
     },
     {
@@ -1905,7 +1894,7 @@
       "make": "Hyundai",
       "model": "Sonata Hybrid",
       "condition": "used",
-      "price": 32888.0,
+      "price": 31989.0,
       "price_currency": "CAD"
     },
     {
@@ -1927,7 +1916,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 39777.0,
+      "price": 39488.0,
       "price_currency": "CAD"
     },
     {
@@ -1938,7 +1927,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 39777.0,
+      "price": 39488.0,
       "price_currency": "CAD"
     },
     {
@@ -1960,7 +1949,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 49488.0,
+      "price": 48888.0,
       "price_currency": "CAD"
     },
     {
