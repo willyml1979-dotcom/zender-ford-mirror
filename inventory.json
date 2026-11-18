@@ -1,7 +1,7 @@
 {
   "dealership": "Zender Ford",
-  "generated_at": "2026-11-17T03:37:39",
-  "vehicle_count": 196,
+  "generated_at": "2026-11-17T22:08:21",
+  "vehicle_count": 202,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/f97fd6fef03b.html",
       "condition": "used",
       "price": 17989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2015 for salein Spruce Grove",
+      "vin": "3GTU2VECXFG427394",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/606659af99e3.html",
+      "condition": "used",
+      "price": 16989.0,
       "price_currency": "CAD"
     },
     {
@@ -94,6 +102,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Escape 2021 for salein Spruce Grove",
+      "vin": "1FMCU9G61MUB19668",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/a436a4cd6b74.html",
+      "condition": "used",
+      "price": 17669.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford F-150 2021 for salein Spruce Grove",
       "vin": "1FTFW1E55MFB97379",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/befa07e1204a.html",
@@ -110,11 +126,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Grand Cherokee 2021 for salein Spruce Grove",
+      "vin": "1C4RJFBG6MC684784",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/fbca2f688a46.html",
+      "condition": "used",
+      "price": 34258.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4xe 2021 for salein Spruce Grove",
+      "vin": "1C4JJXP65MW747617",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/6d042c1b1f6c.html",
+      "condition": "used",
+      "price": 36248.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Cadillac Escalade 2022 for salein Spruce Grove",
       "vin": "1GYS4AKLXNR243919",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/7ac40d331aed.html",
       "condition": "used",
       "price": 78989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 3500HD 2022 for salein Spruce Grove",
+      "vin": "1GC4YTEY2NF311671",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/58c6ff15e241.html",
+      "condition": "used",
+      "price": 64989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Challenger 2022 for salein Spruce Grove",
+      "vin": "2C3CDZFJ9NH181189",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/a1bd66c01584.html",
+      "condition": "used",
+      "price": 64444.0,
       "price_currency": "CAD"
     },
     {
@@ -131,6 +179,30 @@
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/5dd0b2e5e2d6.html",
       "condition": "used",
       "price": 32989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2022 for salein Spruce Grove",
+      "vin": "1C4RJHET7N8614316",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/db68e8a4fadf.html",
+      "condition": "used",
+      "price": 44888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2022 for salein Spruce Grove",
+      "vin": "KNDPRCA68N7994243",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/dfd8aa3b63b8.html",
+      "condition": "used",
+      "price": 25989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2022 for salein Spruce Grove",
+      "vin": "1C6SRFRT3NN472905",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/033cbb1f767c.html",
+      "condition": "used",
+      "price": 33488.0,
       "price_currency": "CAD"
     },
     {
@@ -182,6 +254,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Jeep Compass 2026 for salein Spruce Grove",
+      "vin": "3C4NJDBNXTT202502",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/ef561b01a267.html",
+      "condition": "new",
+      "price": 39488.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2026 for salein Spruce Grove",
+      "vin": "2T36CRAV9TC027103",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/9bd7d732ad6b.html",
+      "condition": "new",
+      "price": 48777.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 RAM 1500 4WD Quad Cab 6.4 Ft Box SLTin Spruce Grove",
       "vin": "1C6RD7GT9CS118424",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/5c6c29a6cd7d.html",
@@ -201,17 +289,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 17989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 GMC Sierra 1500 ",
-      "vin": "3GTU2VECXFG427394",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/606659af99e3.html",
-      "year": 2015,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 16989.0,
       "price_currency": "CAD"
     },
     {
@@ -270,17 +347,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Escape ",
-      "vin": "1FMCU9G61MUB19668",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/a436a4cd6b74.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 17777.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee Limited X 4x4in Spruce Grove",
       "vin": "1C4RJFBG6MC684784",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/79ec0e130456.html",
@@ -288,18 +354,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 34488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFBG6MC684784",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/fbca2f688a46.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 34488.0,
+      "price": 34258.0,
       "price_currency": "CAD"
     },
     {
@@ -310,29 +365,7 @@
       "make": "Jeep",
       "model": "Wrangler 4xe Unlimited High Altitude 4x4in Spruce Grove",
       "condition": "used",
-      "price": 36488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Wrangler 4xe ",
-      "vin": "1C4JJXP65MW747617",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/6d042c1b1f6c.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 36488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Chevrolet Silverado 3500HD ",
-      "vin": "1GC4YTEY2NF311671",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/58c6ff15e241.html",
-      "year": 2022,
-      "make": "Chevrolet",
-      "model": "Silverado 3500HD",
-      "condition": "used",
-      "price": 66127.0,
+      "price": 36248.0,
       "price_currency": "CAD"
     },
     {
@@ -343,18 +376,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 64896.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Dodge Challenger ",
-      "vin": "2C3CDZFJ9NH181189",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/a1bd66c01584.html",
-      "year": 2022,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "used",
-      "price": 64896.0,
+      "price": 64444.0,
       "price_currency": "CAD"
     },
     {
@@ -365,29 +387,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 44989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Grand Cherokee ",
-      "vin": "1C4RJHET7N8614316",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/db68e8a4fadf.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 44989.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Sportage ",
-      "vin": "KNDPRCA68N7994243",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/dfd8aa3b63b8.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 25989.0,
+      "price": 44888.0,
       "price_currency": "CAD"
     },
     {
@@ -398,18 +398,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 33777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFRT3NN472905",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/033cbb1f767c.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 33777.0,
+      "price": 33488.0,
       "price_currency": "CAD"
     },
     {
@@ -443,6 +432,17 @@
       "model": "F-150",
       "condition": "used",
       "price": 58248.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Ford Mustang Mach-E Select AWDin Spruce Grove",
+      "vin": "3FMTK1S50PMA83132",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/73912692510b.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "used",
+      "price": 36989.0,
       "price_currency": "CAD"
     },
     {
@@ -849,7 +849,7 @@
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 40998.0,
+      "price": 40488.0,
       "price_currency": "CAD"
     },
     {
@@ -916,17 +916,6 @@
       "model": "Bronco Sport",
       "condition": "used",
       "price": 35777.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport Outer Banks 4x4in Spruce Grove",
-      "vin": "3FMCR9CN3SRF29780",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/03260ba6ee63.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 39998.0,
       "price_currency": "CAD"
     },
     {
@@ -1260,25 +1249,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco ",
-      "vin": "1FMEE7BH2TLA44390",
+      "name": "2026 Ford Broncoin Spruce Grove",
+      "vin": "1FMDE6BH0TLA87938",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/6157c4b04322.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Broncoin Spruce Grove",
+      "condition": "new",
+      "price": 47880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford Bronco Sportin Spruce Grove",
+      "vin": "3FMCR9BN6TRF42266",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/62d245cfb7bb.html",
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
       "condition": "new",
-      "price": 64923.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport ",
-      "vin": "3FMCR9BN8TRE84998",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/62d245cfb7bb.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 45042.0,
+      "price": 36260.0,
       "price_currency": "CAD"
     },
     {
@@ -1318,29 +1307,29 @@
       "make": "Ford",
       "model": "Expeditionin Spruce Grove",
       "condition": "new",
-      "price": 75315.0,
+      "price": 82565.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer ",
-      "vin": "1FMWK8GC7TGB02969",
+      "name": "2026 Ford Explorerin Spruce Grove",
+      "vin": "1FMUK8JH3TGB34233",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/0d53d6c370b2.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Spruce Grove",
       "condition": "new",
-      "price": 72533.0,
+      "price": 49665.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 ",
-      "vin": "1FTEW2LP2TKE50900",
+      "name": "2026 Ford F-150in Spruce Grove",
+      "vin": "1FTEW1LP4TKF72457",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/672245b630e1.html",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150",
+      "model": "F-150in Spruce Grove",
       "condition": "new",
-      "price": 61631.0,
+      "price": 50164.0,
       "price_currency": "CAD"
     },
     {
@@ -1354,25 +1343,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
+      "name": "2026 Ford Maverickin Spruce Grove",
       "vin": "3FTTW8NA5TRB21252",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/7f0097dde453.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick",
+      "model": "Maverickin Spruce Grove",
       "condition": "new",
-      "price": 55832.0,
+      "price": 44495.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Maverick ",
+      "name": "2026 Ford Maverick Hybridin Spruce Grove",
       "vin": "3FTTW8H34TRB16847",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/a39d409dc904.html",
       "year": 2026,
       "make": "Ford",
       "model": "Maverick",
       "condition": "new",
-      "price": 45832.0,
+      "price": 38195.0,
       "price_currency": "CAD"
     },
     {
@@ -1396,25 +1385,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E ",
+      "name": "2026 Ford Mustang Mach-Ein Spruce Grove",
       "vin": "3FMTK1S50TMA24222",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/850407614483.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Mach-E",
+      "model": "Mustang",
       "condition": "new",
-      "price": 54848.0,
+      "price": 41829.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger ",
+      "name": "2026 Ford Rangerin Spruce Grove",
       "vin": "1FTER4HH3TLE23574",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/cf55146d4382.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger",
+      "model": "Rangerin Spruce Grove",
       "condition": "new",
-      "price": 56152.0,
+      "price": 42485.0,
       "price_currency": "CAD"
     },
     {
@@ -1424,7 +1413,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 60034.0,
+      "price": 64034.0,
       "price_currency": "CAD"
     },
     {
@@ -1434,18 +1423,18 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 63280.0,
+      "price": 67280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-350 SRW ",
+      "name": "2026 Ford Super Duty F-350 SRWin Spruce Grove",
       "vin": "1FT8W3BA3TEF47120",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/b0ddda615b5f.html",
       "year": 2026,
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 74917.0,
+      "price": 57954.0,
       "price_currency": "CAD"
     },
     {
@@ -1588,17 +1577,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 53882.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Big Bendin Spruce Grove",
-      "vin": "3FMCR9BN8TRE84998",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/705214bb15e7.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 45042.0,
       "price_currency": "CAD"
     },
     {
@@ -1752,7 +1730,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 97976.0,
+      "price": 97541.0,
       "price_currency": "CAD"
     },
     {
@@ -1763,7 +1741,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 84723.0,
+      "price": 84288.0,
       "price_currency": "CAD"
     },
     {
@@ -1775,6 +1753,83 @@
       "model": "F-150",
       "condition": "new",
       "price": 68287.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L82TKE60748",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/d1a600a6489c.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 59852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L8XTKE59489",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/588a64606355.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 61052.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L8XTKE61100",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/b20983b5cba4.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 59852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L86TKE64012",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/9fba1ffa59f7.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 59852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L87TKE63032",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/89950b8b97b0.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 59852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L81TKE73958",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/2e36fc6905d5.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 59852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Spruce Grove",
+      "vin": "1FTFW3L82TKE70910",
+      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/0079650685dd.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 60427.0,
       "price_currency": "CAD"
     },
     {
@@ -1862,7 +1917,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "new",
-      "price": 95636.0,
+      "price": 91056.0,
       "price_currency": "CAD"
     },
     {
@@ -1943,17 +1998,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDBNXTT202502",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/ef561b01a267.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 39777.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota RAV4 LE AWDin Spruce Grove",
       "vin": "2T36CRAV9TC027103",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/used/b860fbfa4f20.html",
@@ -1965,56 +2009,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 ",
-      "vin": "2T36CRAV9TC027103",
-      "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/9bd7d732ad6b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 49488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Bronco Sport ",
+      "name": "2027 Ford Bronco Sportin Spruce Grove",
       "vin": "3FMCR9BN7VRE04450",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/6d0e48e019a1.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "price": 41390.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Expedition ",
+      "name": "2027 Ford Expeditionin Spruce Grove",
       "vin": "1FMJU1RGXVEA32331",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/42766f07302f.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Expedition",
+      "model": "Expeditionin Spruce Grove",
       "condition": "new",
-      "price": 117472.0,
+      "price": 89295.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Explorer ",
+      "name": "2027 Ford Explorerin Spruce Grove",
       "vin": "1FMWK8GC8VGA06867",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/ee3ab8a22b70.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer",
+      "model": "Explorerin Spruce Grove",
       "condition": "new",
-      "price": 81497.0,
+      "price": 55195.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford F-150 ",
-      "vin": "1FTFW3L88VFA01798",
+      "name": "2027 Ford F-150in Spruce Grove",
+      "vin": "1FTFW3L87VFA01789",
       "url": "https://willyml1979-dotcom.github.io/zender-ford-mirror/new/bfa2d035cfd3.html",
       "year": 2027,
       "make": "Ford",
-      "model": "F-150",
+      "model": "F-150in Spruce Grove",
       "condition": "new",
-      "price": 85148.0,
+      "price": 56485.0,
       "price_currency": "CAD"
     },
     {
