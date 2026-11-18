@@ -1,6 +1,6 @@
 # Zender Ford
 
-Ford dealership in AB. AI-readable inventory mirror, about 204 vehicles.
+Ford dealership in AB. AI-readable inventory mirror, about 200 vehicles.
 
 - Official website: https://www.zenderford.com
 - Used vehicles: https://willyml1979-dotcom.github.io/zender-ford-mirror/used/
